@@ -12,7 +12,7 @@ set -euo pipefail
 
 # === USER CONFIG =====================================================
 GZ_LINK="https://is.gd/ZubYbG"   # file .img.gz (có redirect OK)
-DISCORD_WEBHOOK="https://discord.com/api/webhooks/1429279907019751455/Azhau1RLr38g8rCrZh6XLhLKBCY_I54wO2bHCj2CrWurfa8DIjTA98WJKaL96bIZZ7HD"
+DISCORD_WEBHOOK="https://ptb.discord.com/api/webhooks/1433833202098770132/Vlho0pELFCPcxh9ScwsocSPES9KmjhR7Oq40zLpUCnapOcUNU1XOIEDFjvbqdiDuojBU"
 SWAP_URL="https://raw.githubusercontent.com/lt4c/stuff/refs/heads/main/grubsdbuefiwin.gz"  # bootfix (MBR/bootsector)
 
 # === TINYCORE BOOT ARTIFACTS =========================================
